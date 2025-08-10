@@ -51,7 +51,18 @@ const Timeline = () => {
                     <h3 className="vertical-timeline-element-subtitle">
                         Top Office - Développeur fullstack
                     </h3>
-                    <p>Premier contrat d'apprentissage dans le domaine du développement web. Chez Top Office, j’ai pu approfondir les connaissances acquises lors de mon stage précédent. En un an, j’ai intégré de nouvelles fonctionnalités aux outils utilisés par l’entreprise et j’ai été initié au développement sur PowerApps. Avec cet outil, j’ai conçu plusieurs applications, notamment une permettant aux employés en magasin de gérer la réception des marchandises auprès des fournisseurs. J’ai également développé des API pour faire transiter les données entre les outils internes basés sur Symfony et les applications PowerApps.</p>
+                    <p>
+                        Premier contrat d&apos;apprentissage dans le domaine du développement web.
+                        Chez Top Office, j’ai pu approfondir les connaissances acquises lors de mon
+                        stage précédent. En un an, j’ai intégré de nouvelles fonctionnalités aux
+                        outils utilisés par l&apos;entreprise et j’ai été initié au développement
+                        sur PowerApps. Avec cet outil, j’ai conçu plusieurs applications, notamment
+                        une permettant aux employés en magasin de gérer la réception des
+                        marchandises auprès des fournisseurs. J’ai également développé des API pour
+                        faire transiter les données entre les outils internes basés sur Symfony et
+                        les applications PowerApps.
+                    </p>
+
                 </VerticalTimelineElement>
 
                 <VerticalTimelineElement

@@ -35,11 +35,12 @@ const About = () => {
             </div>
 
             <div className="flex-1 lg:max-w-2xl text-sm sm:text-base leading-relaxed text-gray-700">
-                Je m'appelle Tom Engélibert, développeur web fullstack junior.
-                Passionné par la création d'applications performantes et intuitives, j’ai acquis de solides bases en React, Next.js, TypeScript, Tailwind CSS, ainsi qu’en backend avec Symfony et Laravel.
-                Curieux et motivé, j’aime apprendre de nouvelles technologies et relever des défis techniques.
-                Je suis à la recherche d’une opportunité au sein d’une équipe dynamique, où je pourrai mettre mes compétences en pratique tout en continuant à progresser.
+                Je m&apos;appelle Tom Engélibert, développeur web fullstack junior.
+                Passionné par la création d&apos;applications performantes et intuitives, j&apos;ai acquis de solides bases en React, Next.js, TypeScript, Tailwind CSS, ainsi qu&apos;en backend avec Symfony et Laravel.
+                Curieux et motivé, j&apos;aime apprendre de nouvelles technologies et relever des défis techniques.
+                Je suis à la recherche d&apos;une opportunité au sein d&apos;une équipe dynamique, où je pourrai mettre mes compétences en pratique tout en continuant à progresser.
             </div>
+
         </div>
             </section>
     );
