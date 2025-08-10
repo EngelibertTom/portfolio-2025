@@ -23,7 +23,7 @@ export const projects: Project[] = [
         description: "Site dont l'objectif est de sensibiliser le public aux enjeux de l'IA dans le domaine militaire. Il propose une experience immersive et interactive, permettant aux utilisateurs de découvrir les implications de l'IA dans les conflits armés.",
         tech: ["Next.js", "Tailwind CSS"],
         image: "/assets/images/outofschool.png",
-        link: "https://gastronogeek-lsgy.vercel.app/",
+        link: "https://out-of-school-nu.vercel.app/",
         video: null
     },
     {
