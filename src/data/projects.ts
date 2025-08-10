@@ -7,7 +7,7 @@ export const projects: Project[] = [
         description: "Application web de simulation de plantation d'arbre en milieu urbain permettant de sensibiliser les utilisateurs aux défis et enjeux du réchauffement climatique. Cet outil permet d4estimer l'impact en temps réel de la plantation d'arbres sur la température des ilots de chaleur identifiés.",
         tech: ["React", "Next.js", "Mapbox", "OpenWeather API"],
         image: "/assets/images/simularbre.png",
-        link: "https://epreuve-rentree-d6dp.vercel.app/map",
+        link: "https://competition-vert.vercel.app/",
         video: null
     },
     {
